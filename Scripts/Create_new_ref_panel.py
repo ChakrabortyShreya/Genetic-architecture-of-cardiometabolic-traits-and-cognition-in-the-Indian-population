@@ -1,8 +1,8 @@
 import os
 from mpi4py import MPI
 
-#chromosomes = [f'{i}' for i in range(1, 23)]
-#chrom_num=[f'{i}' for i in range(1, 23)]
+chromosomes = [f'{i}' for i in range(1, 23)]
+chrom_num=[f'{i}' for i in range(1, 23)]
 
 thread_count = str(os.environ.get('SLURM_CPUS_PER_TASK', 1))
 ref_path="/Ref-Panel-TLSA-SAS"
@@ -105,4 +105,4 @@ rank = comm.Get_rank()
 
 
 if rank < (len(chromosomes)):
-	#sas_tlsa_panel(rank)
+	sas_tlsa_panel(rank)
