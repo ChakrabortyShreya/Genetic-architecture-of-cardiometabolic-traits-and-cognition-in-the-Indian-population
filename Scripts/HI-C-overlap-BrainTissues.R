@@ -97,7 +97,7 @@ length(phenotypes)
 
 pheno_lg=c("HDL","LDL","logTG","TC","TG_HDL","FBS","HbA1c","VisceralFat","VAI","MetSyn")
 
-cred_path="/Final_Credible_HiC_14052024_INDEX_HighConf/" //Path to clumped association summary statistics files
+cred_path="/Final_Credible_HiC_INDEX_HighConf/" #Path to clumped association summary statistics files
 
 out_list=list()
 for (j in 1:length(phenotypes))
