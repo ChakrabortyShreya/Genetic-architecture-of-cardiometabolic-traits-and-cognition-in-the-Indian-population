@@ -48,8 +48,6 @@ grep -v "#" Temp/Intermediate_file5.psam |cut  -f 1 > Samples_retained_after_QC.
 ##Extract samples and variants retained after QC
 module load bcftools-1.11.3
 
-#time bcftools annotate --set-id '%CHROM\:%POS\[b38\]%REF\,%ALT' -Oz -o Temp/inVCF.id.renamed.vcf.gz --threads 72 $file 
-#time bcftools view --include ID==@VarList_QC_d_in.txt -S Samples_retained_after_QC.txt Temp/inVCF.id.renamed.vcf.gz -Oz -o $output.vcf.gz --threads 72
 
 time bcftools view --include ID==@Temp/VarList_Int_QC_d_in.txt -S Samples_retained_after_QC.txt $file -Oz -o Temp/Intermediate_file5.vcf.gz --threads 72
 time bcftools index -t Temp/Intermediate_file5.vcf.gz --threads 72
