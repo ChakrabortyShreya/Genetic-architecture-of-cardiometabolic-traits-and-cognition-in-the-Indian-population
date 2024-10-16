@@ -108,10 +108,10 @@ for (j in 1:length(phenotypes))
 {
   if (phenotypes[j] %in% pheno_lg)
   {
-    cred_file_name=paste("2_108_",phenotypes[j],"_corrected.FamGrammarGamma.assoc_Processed_Indep_Hits_own.clumped_Formatted_Final.txt",sep="")
+    cred_file_name=paste(phenotypes[j],".FamGrammarGamma.assoc_Processed_Indep_Hits_own.clumped_Formatted_Final.txt",sep="")
   }else
   {
-    cred_file_name=paste("2_108_NoAPOE_",phenotypes[j],"_LitCat_corrected.FamGrammarGamma.assoc_Processed_Indep_Hits_own.clumped_Formatted_Final.txt",sep="")
+    cred_file_name=paste(phenotypes[j],"_LitCat.FamGrammarGamma.assoc_Processed_Indep_Hits_own.clumped_Formatted_Final.txt",sep="")
   }
   cred_file=read.table(paste(cred_path,cred_file_name,sep=""),sep="\t",header=TRUE)
   cred_file_v1= cred_file %>% separate(ID, into = c("CHROM", "POS","REF","ALT"), sep = ":", remove = FALSE)
