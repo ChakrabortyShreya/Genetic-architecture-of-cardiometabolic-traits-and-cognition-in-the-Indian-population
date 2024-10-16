@@ -20,6 +20,8 @@ plink --bed Haplo_test_locus.bed --bim Haplo_test_locus.bim --fam Haplo_test_loc
 
 cut Haplo_test_locus_pm.map -f 2,4 > Haplo_test_locus_pm.info
 
+###============================Main Haploview command=================
 
 java -jar ../Haploview.jar -nogui -pedfile Haplo_test_locus_pm.ped -info Haplo_test_locus_pm.info -assocCC -out Result -blockoutput ALL -log -dprime -svg
 
+###====================================================================
