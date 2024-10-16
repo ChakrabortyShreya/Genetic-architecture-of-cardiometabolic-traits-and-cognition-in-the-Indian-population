@@ -3,13 +3,14 @@
 Codes:
 
 1. Quality Control of genotyped data
-2. Phasing and Imputation
-3. Single variant association
-4. Gene based association
-5. Conditional association
-6. Annotation
-7. COLOC
-8. HI-C
-9. Enrichr
-10. MR
-11. Haploview
+2. 
+3. Phasing and Imputation
+4. Single variant association
+5. Gene based association
+6. Conditional association
+7. Annotation
+8. COLOC
+9. HI-C
+10. Enrichr
+11. MR
+12. Haploview
