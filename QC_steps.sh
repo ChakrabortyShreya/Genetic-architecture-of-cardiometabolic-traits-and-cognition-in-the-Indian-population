@@ -1,9 +1,9 @@
 #!/bin/bash
 
-read -p 'Enter vcf filename with path ("../1.0.Merged/SANSCOG_2_108_v1.vcf.gz" kept in the merge directory):' file
+read -p 'Enter vcf filename with path ("../1.0.Merged/Genotyped_data.vcf.gz" kept in the merge directory):' file
 read -p ' Sample list to be excluded (Exclude_Samples.txt):' exclude
-read -p 'Enter output file name ("SANSCOG_2_108_QC_d"):' output 
-read -p 'Enter output name for GRCh37 format ("SANSCOG_2_108_QC_d_chr_renamed"):' renamed
+read -p 'Enter output file name ("Genotyped_data_QC_d"):' output 
+read -p 'Enter output name for GRCh37 format ("Genotyped_data_QC_d_chr_renamed"):' renamed
 
 mkdir Temp
 
