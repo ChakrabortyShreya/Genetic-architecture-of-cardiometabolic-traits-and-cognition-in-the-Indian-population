@@ -18,7 +18,7 @@ Codes:
    
 1. 
 13. Enrichr
-14. MR
-15.
+14. [Mendelian Randomization](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/MR.R)
+   
 16. [Haplotype association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/Haploview.sh)
  
