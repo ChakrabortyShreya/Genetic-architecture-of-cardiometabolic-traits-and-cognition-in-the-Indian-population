@@ -3,8 +3,7 @@
 Codes:
 
 1. Quality Control of genotyped data
-2. 
-3. Phasing and Imputation
+2. Phasing and Imputation
 4. Single variant association
 5. Gene based association
 6. Conditional association
