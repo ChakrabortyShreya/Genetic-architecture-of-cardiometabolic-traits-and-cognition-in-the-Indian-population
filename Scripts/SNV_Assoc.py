@@ -15,9 +15,9 @@ if rank < len(z):
 	with open(z[rank]+"/"+z[rank]+".log","w") as f:
 		f.write("Running rvtests...\n")
 		os.system("time rvtest --inVcf SANSCOG-imputed-filtered-0.6-sorted-mac2-annot-atgc-rem-maf0.0002.vcf.gz  --out "+z[rank]+"/2_108_"+z[rank]+"_LitCat_corrected 
-              --covar ../../1.4.Phenotypes/MAC2_R2_MAF0.0002/COGNITO_EduDum_pheno_MAC2_R2_MAF0.0002_pca.txt  --covar-name GEN_SEX,Age_FINAL_COGNITO,Age_FINAL_COGNITO_sq,LitMed,LitHigh,U1,U2,U3,U4,U5
-              --pheno ../../1.4.Phenotypes/MAC2_R2_MAF0.0002/COGNITO_EduDum_pheno_MAC2_R2_MAF0.0002_pca.txt --inverseNormal --pheno-name "+z[rank]+" 
-              --single famGrammarGamma --kinship ../../1.3.Relatedness/TLSA_Imp_MAC2_R2_0.6_maf_0.0002/SANSCOG-2_108_Imp_MAC2_R2_0.6_MAF_0.0002_pruned_bn.kinship 
+              --covar ../../1.4.Phenotypes/Pheno.txt  --covar-name GEN_SEX,Age_FINAL_COGNITO,Age_FINAL_COGNITO_sq,LitMed,LitHigh,U1,U2,U3,U4,U5
+              --pheno ../../1.4.Phenotypes/Pheno.txt --inverseNormal --pheno-name "+z[rank]+" 
+              --single famGrammarGamma --kinship ../../1.3.Relatedness/SANSCOG-Imp_MAC2_R2_0.6_MAF_0.0002_pruned_bn.kinship 
               --numThread 15 --useResidualAsPhenotype")
 		f.write("Done.\n")
 		f.write("Processing GWAS sumstats..(Calc Z SE)...\n")
