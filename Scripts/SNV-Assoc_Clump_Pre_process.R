@@ -1,0 +1,16 @@
+argv=commandArgs(trailingOnly = TRUE)
+data=read.table(argv[1],header=TRUE,sep="\t")
+print("Reading Complete.\nProcesing...")
+#data=read.table("2_108_NoAPOE_HMSE_LitCat.FamGrammarGamma.assoc",header=TRUE)
+#head(data)
+data$ID=paste(data$CHROM,":",data$POS,":",data$REF,":",data$ALT,sep="")
+#head(data)
+data$SE=array()
+data$Z=array()
+
+data$SE[which(data$BetaVar>0)]=sqrt(data$BetaVar[which(data$BetaVar>0)])
+data$Z[which(data$BetaVar>0)]=data$Beta[which(data$BetaVar>0)]/sqrt(data$BetaVar[which(data$BetaVar>0)])
+
+#head(data[is.na(data$BetaVar)])
+write.table(data,paste(argv[1],"_Processed",sep=""),quote=FALSE,row.names=FALSE)
+print("Done.")
