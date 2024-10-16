@@ -7,7 +7,7 @@ Codes:
    
 2. [Phasing script](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/Phasing.py)
   
-3. [Imputation script]
+3. [Imputation script](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/Imputation.py)
 
 
 4. [Single variant association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/SNV_Assoc.py)
