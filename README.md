@@ -19,7 +19,9 @@ Codes:
    
 11. HI-C
     
-       Path:Scripts/HI-C-Overlap-HepG2.R
+       Path:[Scripts/](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/HI-C-overlap-BrainTissues.R)
+       
+       
     
 13. Enrichr
 14. MR
