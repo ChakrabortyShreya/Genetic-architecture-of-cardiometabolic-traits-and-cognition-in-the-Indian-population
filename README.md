@@ -5,10 +5,12 @@ Codes:
 1. [Quality Control of genotyped data](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/1.QC_Steps.sh)
    
    
-2. Phasing and Imputation
+2. [Phasing script](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/Phasing.py)
+  
+3. [Imputation script]
 
 
-3. [Single variant association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/SNV_Assoc.py)
+4. [Single variant association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/SNV_Assoc.py)
 
 5. [Gene based association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/GB_Assoc.py)
 
