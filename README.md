@@ -3,26 +3,27 @@
 Codes:
 
 1. [Quality Control of genotyped data](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/1.QC_Steps.sh)
+
+2. [Creating merged haplotype reference panel for genotype imputation](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/Create_new_ref_panel.py)
    
-   
-2. [Phasing script](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/Phasing.py)
+3. [Phasing script](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/Phasing.py)
   
-3. [Imputation script](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/Imputation.py)
+4. [Imputation script](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/Imputation.py)
 
 
-4. [Single variant association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/SNV_Assoc.py)
+5. [Single variant association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/SNV_Assoc.py)
 
-5. [Gene based association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/GB_Assoc.py)
+6. [Gene based association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/GB_Assoc.py)
 
-6. [Conditional association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/COJO.py)
+7. [Conditional association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/COJO.py)
 
-7. [Spatial overlap with HI-C datasets](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/HI-C-overlap-BrainTissues.R)
+8. [Spatial overlap with HI-C datasets](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/HI-C-overlap-BrainTissues.R)
     
-8. [COLOC analysis](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/COLOC.R)
+9. [COLOC analysis](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/COLOC.R)
 
-9. [Gene Set enrichment with Enrichr](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/Enrichr.R)
+10. [Gene Set enrichment with Enrichr](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/Enrichr.R)
 
-10. [Mendelian Randomization](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/MR.R)
+11. [Mendelian Randomization](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/MR.R)
    
-11. [Haplotype association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/Haploview.sh)
+12. [Haplotype association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/Haploview.sh)
  
