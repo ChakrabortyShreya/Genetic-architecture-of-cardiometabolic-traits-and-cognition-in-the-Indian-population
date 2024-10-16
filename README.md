@@ -14,9 +14,13 @@ Codes:
 7. Conditional association
 8. Annotation
 9. COLOC
-    Path: Scripts/COLOC.R
+    
+       Path: Scripts/COLOC.R
+   
 11. HI-C
-    Path:Scripts/HI-C.R
+    
+       Path:Scripts/HI-C-Overlap-HepG2.R
+    
 13. Enrichr
 14. MR
 15. Haploview
