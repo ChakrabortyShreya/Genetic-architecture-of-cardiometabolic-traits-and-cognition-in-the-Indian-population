@@ -9,14 +9,16 @@ Codes:
 
 
 4 Single variant association
+
 5. Gene based association
+
 6. [Conditional association/](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/COJO.py)
 
 7. [Spatial overlap with HI-C datasets](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/HI-C-overlap-BrainTissues.R)
     
 8. [COLOC analysis](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/COLOC.R)
 
-9. [Gene Set enrichment with Enrichr]
+9. [Gene Set enrichment with Enrichr](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/Enrichr.R)
 
 10. [Mendelian Randomization](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/MR.R)
    
