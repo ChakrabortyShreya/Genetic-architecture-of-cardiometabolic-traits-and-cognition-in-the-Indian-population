@@ -10,7 +10,7 @@ Codes:
 
 3. [Single variant association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/SNV_Assoc.py)
 
-5. Gene based association
+5. [Gene based association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/GB_Assoc.py)
 
 6. [Conditional association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/COJO.py)
 
