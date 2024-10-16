@@ -2,9 +2,7 @@
 
 Codes:
 
-1. Quality Control of genotyped data
-   
-     Path: [Scripts/](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/1.QC_Steps.sh)
+1.[Quality Control of genotyped data](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/1.QC_Steps.sh)
    
    
 3. Phasing and Imputation
