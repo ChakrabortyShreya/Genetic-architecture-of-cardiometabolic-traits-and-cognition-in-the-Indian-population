@@ -12,7 +12,7 @@ Codes:
 
 5. Gene based association
 
-6. [Conditional association/](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/COJO.py)
+6. [Conditional association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/COJO.py)
 
 7. [Spatial overlap with HI-C datasets](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/HI-C-overlap-BrainTissues.R)
     
