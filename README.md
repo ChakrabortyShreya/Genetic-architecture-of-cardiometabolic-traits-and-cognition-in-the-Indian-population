@@ -8,7 +8,7 @@ Codes:
 2. Phasing and Imputation
 
 
-4 Single variant association
+3. [Single variant association](https://github.com/ChakrabortyShreya/Genetic-architecture-of-cardiometabolic-traits-and-cognition-in-the-Indian-population-/blob/main/Scripts/SNV_Assoc.py)
 
 5. Gene based association
 
